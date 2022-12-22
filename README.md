@@ -31,13 +31,21 @@ Application de gestion de compétition de badminton
 - Générer un échéancier
 
 ## Contraintes techniques
-- TDD
-- DDD
-- BDD
+- TDD (Diamond Outside in)
+- DDD (context map à générer)
+- BDD (tests d'acceptance)
 - Clean code
 - Architecture domaine centrique (clean architecture)
 - Event sourcing ?
-- Documentation vivante
+- Documentation vivante (génération de markdown, mermaid, ...)
 - Code review / pull requests systématique
+- CI (exécution des tests et affichage des tests d'acceptance)
 - .NET C#
 - Développé en français
+
+## Workflow
+1. Définition du besoin (Janvier 2023)
+   1. via excalidraw
+2. Introduire les scénarios/exemples (Example mapping) (Février 2023)
+3. Automatiser ces scénarios/exemples sous forme de tests d'acceptance (gherkin ou non) (Mars 2023)
+4. Réalisation (Mars 2023)
