@@ -33,6 +33,31 @@
 |   Régionale    |    35 min    |   33 min    |    33 min    |   33 min    |    33 min    |
 |   Nationale    |    45 min    |   43 min    |    43 min    |   43 min    |    43 min    |
 
+
+### Têtes de séries
+#### Elimination directe
+| Nombre de participants  | 15 ou moins | entre 16 à 31 | entre 32 à 63 | 64 ou plus |
+|:-----------------------:|:-----------:|:-------------:|:-------------:|:----------:|
+| Nombre de Tête de Série |      2      |       4       |       8       |     16     |
+
+#### Poules + KO
+| Nombre de participants  | 15 ou moins | entre 16 à 31 | entre 32 à 63 | 64 ou plus |
+|:-----------------------:|:-----------:|:-------------:|:-------------:|:----------:|
+| Nombre de Tête de Série |      2      |       4       |       8       |     16     |
+
+Dans un tableau où les éliminatoires prennent la forme de poules, les mêmes proportions doivent
+être respectées. Toutefois, elles peuvent être dépassées pour atteindre le chiffre de une tête de
+série par poule.
+
+Les têtes de série sont placées dans le tableau de la manière suivante :
+- la tête de série n° 1 au début du demi-tableau supérieur
+- la tête de série n° 2 à la fin du demi-tableau inférieur ;
+- les têtes de série n° 3 et 4 au début du 2e quart de tableau et à la fin du 3e quart de tableau,
+par tirage au sort ;
+- les têtes de série n° 5, 6, 7 et 8 au début des 2e et 4e et à la fin des 5e et 7e huitièmes de
+tableau.
+
+
 ## Fonctionnalités
 - Concevoir une compétition, comprenant :
   - Définition du nombre de matchs en fonction des contraintes (créneaux horaires, taille des gymnases, discipline, découpage par niveau)
