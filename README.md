@@ -57,5 +57,10 @@
 1. Définition du besoin (Janvier 2023)
    1. via excalidraw
 2. Introduire les scénarios/exemples (Example mapping) (Février 2023)
+   1. via excalidraw
 3. Automatiser ces scénarios/exemples sous forme de tests d'acceptance (gherkin ou non) (Mars 2023)
 4. Réalisation (Mars 2023)
+
+
+## Expression du besoin
+![Expression du besoin](1_Definition_du_besoin/Expression_du_besoin.png)
