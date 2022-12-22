@@ -1,5 +1,7 @@
 # TBad
-Application de gestion de compétition de badminton
+#### Application de gestion de compétition de badminton
+
+---
 
 ## Invariants
 ### Module Conception de compétition
@@ -22,6 +24,14 @@ Application de gestion de compétition de badminton
 - Chaque joueur à droit à au minimum 20 minutes de temps de repos
 - Un tableau est découpé en Tour (poules : Tour 1, Tour 2, Tour 3/KO : Quart de finale, Demi-Finale, Finale).
 - Un match d'un Tour ne peut se dérouler que si les matchs du Tour précédent sont terminés
+
+### Durée de matchs
+|                | Simple Homme | Simple Dame | Double Homme | Double Dame | Double Mixte |
+|:--------------:|:------------:|:-----------:|:------------:|:-----------:|:------------:|
+| Promotionnelle |    29 min    |   27 min    |    27 min    |   27 min    |    27 min    |
+| Départementale |    32 min    |   30 min    |    30 min    |   30 min    |    30 min    |
+|   Régionale    |    35 min    |   33 min    |    33 min    |   33 min    |    33 min    |
+|   Nationale    |    45 min    |   43 min    |    43 min    |   43 min    |    43 min    |
 
 ## Fonctionnalités
 - Concevoir une compétition, comprenant :
