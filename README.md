@@ -7,14 +7,21 @@
 ### Module Conception de compétition
 - 1 compétition de badminton est composé d'un nombres de matchs limité. 
 - 1 compétition se déroule sur plusieurs jours.
+- La compétition se déroule dans un ou plusieurs gymnases. Ainsi il y a un nombre de terrains définis.
+
+
 - Chaque match est intégré au sein d'un tableau
 - Un tableau est composé par la discipline (SH, SD, DH, DD, DX) et par son niveau.
 - La durée d'un match dépend du niveau et du tableau.
-- La compétition se déroule dans un ou plusieurs gymnases. Ainsi il y a un nombre de terrains définis.
 - 1 tableau peut avoir 
   - soit des phases en élimination directe, 
   - soit des phases de poules puis d'élimination directe.
+
+
 - 1 joueur ne peut s'inscrire sur au maximum 2 tableaux
+- Une inscription d'un joueur contient le classement du joueur, ainsi que les souhaits de tableaux du joueur
+
+
 - Un match se déroule sur 2 sets gagnants de 21
 - La gestion du Score doit être paramétrable.
 
