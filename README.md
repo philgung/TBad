@@ -66,10 +66,13 @@ tableau.
 
 
 ## Fonctionnalités
-- Concevoir une compétition, comprenant :
-  - Définition du nombre de matchs en fonction des contraintes (créneaux horaires, taille des gymnases, discipline, découpage par niveau)
-  - Proposition de format des tableaux (poules + KO ou K0) en fonction du nombre d'inscrit
-  - Tirage au sort et assignation des joueurs
+- Dimensionnement de la compétition : Définition du nombre de matchs en fonction des contraintes 
+  - créneaux horaires, 
+  - taille des gymnases, 
+  - discipline, 
+  - découpage par niveau
+- Concevoir une compétition : Proposition de format des tableaux (poules + KO ou K0) en fonction du nombre d'inscrit
+- Tirage au sort et assignation des joueurs
 - Générer un échéancier
 
 ## Contraintes techniques
