@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "cebf9b99e18e8e9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a8bd64111c2c538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f44017ef2924fbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1_Definition_du_besoin/retour de decouverte.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbef631dda5d2b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc55f12614008455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bebc6ac21807715",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6e68c291d714258",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb10481d81e2859f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43f52df9b2a70201",
+    "type": "split",
+    "children": [
+      {
+        "id": "808675333aa2a36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109bd125c172aeb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_Definition_du_besoin/retour de decouverte.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e6067196a4fcaae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_Definition_du_besoin/retour de decouverte.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4376f9d866b1cc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5feed98b0ae7b887",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_Definition_du_besoin/retour de decouverte.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9f44017ef2924fbc",
+  "lastOpenFiles": [
+    "1_Definition_du_besoin/Expression du besoin.excalidraw",
+    "README.md",
+    "1_Definition_du_besoin/retour de decouverte.excalidraw.md",
+    "1_Definition_du_besoin/slots.md",
+    "1_Definition_du_besoin/Expression_du_besoin.png"
+  ]
+}
